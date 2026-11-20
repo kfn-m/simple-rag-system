@@ -1,0 +1,7 @@
+Retrieval-Augmented Generation (RAG) is a technique used in Generative AI.
+
+RAG allows an AI system to retrieve relevant information from external documents before generating an answer.
+
+A typical RAG pipeline contains document loading, text splitting, embeddings, vector storage, retrieval, and generation.
+
+The main advantage of RAG is that the language model can use information from a specific knowledge base.
